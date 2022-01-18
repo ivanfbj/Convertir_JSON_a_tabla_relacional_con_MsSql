@@ -1,0 +1,219 @@
+[{
+        "postcode": "0200",
+        "country": "Australia",
+        "countryabbreviation": "AU",
+        "places": [{
+                "placename": "Australian National University",
+                "longitude": "",
+                "state": "Australian Capital Territory",
+                "stateabbreviation": "ACT",
+                "latitude": ""
+            }
+        ]
+    }, {
+        "postcode": "01001",
+        "country": "Spain",
+        "countryabbreviation": "ES",
+        "places": [{
+                "placename": "Vitoria-Gasteiz",
+                "longitude": "-2.6667",
+                "state": "Pais Vasco",
+                "stateabbreviation": "PV",
+                "latitude": "42.85"
+            }
+        ]
+    }, {
+        "postcode": "01002",
+        "country": "Spain",
+        "countryabbreviation": "ES",
+        "places": [{
+                "placename": "Vitoria-Gasteiz",
+                "longitude": "-2.6667",
+                "state": "Pais Vasco",
+                "stateabbreviation": "PV",
+                "latitude": "42.85"
+            }
+        ]
+    }, {
+        "postcode": "01110",
+        "country": "Spain",
+        "countryabbreviation": "ES",
+        "places": [{
+                "placename": "Santa Cruz De Campezo-Santikurutze Kanpezu",
+                "longitude": "-2.4591",
+                "state": "Pais Vasco",
+                "stateabbreviation": "PV",
+                "latitude": "42.6667"
+            }, {
+                "placename": "Campezo",
+                "longitude": "-2.4591",
+                "state": "Pais Vasco",
+                "stateabbreviation": "PV",
+                "latitude": "42.6667"
+            }, {
+                "placename": "Kanpezu",
+                "longitude": "-2.4591",
+                "state": "Pais Vasco",
+                "stateabbreviation": "PV",
+                "latitude": "42.6667"
+            }
+        ]
+    }, {
+        "postcode": "25001",
+        "country": "Spain",
+        "countryabbreviation": "ES",
+        "places": [{
+                "placename": "Lleida",
+                "longitude": "0.6419",
+                "state": "Cataluna",
+                "stateabbreviation": "CT",
+                "latitude": "41.6109"
+            }
+        ]
+    }, {
+        "postcode": "99998",
+        "country": "Mexico",
+        "countryabbreviation": "MX",
+        "places": [{
+                "placename": "Palmarejo",
+                "longitude": "-103.1333",
+                "state": "Zacatecas",
+                "stateabbreviation": "ZAC",
+                "latitude": "21.1083"
+            }, {
+                "placename": "San Jose de Palmarejo",
+                "longitude": "-103.125",
+                "state": "Zacatecas",
+                "stateabbreviation": "ZAC",
+                "latitude": "21.0958"
+            }, {
+                "placename": "Jesus Maria",
+                "longitude": "-103.1167",
+                "state": "Zacatecas",
+                "stateabbreviation": "ZAC",
+                "latitude": "21.0833"
+            }
+        ]
+    }, {
+        "postcode": "45010",
+        "country": "Mexico",
+        "countryabbreviation": "MX",
+        "places": [{
+                "placename": "La Castilla",
+                "longitude": "-103.85",
+                "state": "Jalisco",
+                "stateabbreviation": "JAL",
+                "latitude": "20.2944"
+            }, {
+                "placename": "Bellavista",
+                "longitude": "-103.65",
+                "state": "Jalisco",
+                "stateabbreviation": "JAL",
+                "latitude": "20.4333"
+            }, {
+                "placename": "Ciudad Granja",
+                "longitude": "-103.4333",
+                "state": "Jalisco",
+                "stateabbreviation": "JAL",
+                "latitude": "20.6833"
+            }, {
+                "placename": "Cumbres",
+                "longitude": "-104.4667",
+                "state": "Jalisco",
+                "stateabbreviation": "JAL",
+                "latitude": "19.7667"
+            }, {
+                "placename": "Coto Del Rey",
+                "longitude": "-103.85",
+                "state": "Jalisco",
+                "stateabbreviation": "JAL",
+                "latitude": "20.2944"
+            }, {
+                "placename": "Jardines de Chapalita",
+                "longitude": "-103.85",
+                "state": "Jalisco",
+                "stateabbreviation": "JAL",
+                "latitude": "20.2944"
+            }, {
+                "placename": "Villa Nueva Galicia",
+                "longitude": "-103.85",
+                "state": "Jalisco",
+                "stateabbreviation": "JAL",
+                "latitude": "20.2944"
+            }, {
+                "placename": "Chapalita Inn",
+                "longitude": "-103.85",
+                "state": "Jalisco",
+                "stateabbreviation": "JAL",
+                "latitude": "20.2944"
+            }, {
+                "placename": "Glorias Del Colli",
+                "longitude": "-103.85",
+                "state": "Jalisco",
+                "stateabbreviation": "JAL",
+                "latitude": "20.2944"
+            }, {
+                "placename": "Lomas Del Colli",
+                "longitude": "-103.85",
+                "state": "Jalisco",
+                "stateabbreviation": "JAL",
+                "latitude": "20.2944"
+            }, {
+                "placename": "Vistas Del Pinar",
+                "longitude": "-103.85",
+                "state": "Jalisco",
+                "stateabbreviation": "JAL",
+                "latitude": "20.2944"
+            }
+        ]
+    }, {
+        "postcode": "35000",
+        "country": "Mexico",
+        "countryabbreviation": "MX",
+        "places": [{
+                "placename": "Gomez Palacio Centro",
+                "longitude": "-104.3733",
+                "state": "Durango",
+                "stateabbreviation": "DUR",
+                "latitude": "25.0797"
+            }
+        ]
+    }, {
+        "postcode": "30000",
+        "country": "Mexico",
+        "countryabbreviation": "MX",
+        "places": [{
+                "placename": "Comitan de Dominguez Centro",
+                "longitude": "-101.7071",
+                "state": "Chiapas",
+                "stateabbreviation": "COA",
+                "latitude": "26.7107"
+            }
+        ]
+    }, {
+        "postcode": "25000",
+        "country": "Mexico",
+        "countryabbreviation": "MX",
+        "places": [{
+                "placename": "Saltillo Centro",
+                "longitude": "-92.978",
+                "state": "Coahuila De Zaragoza",
+                "stateabbreviation": "CHP",
+                "latitude": "16.2163"
+            }
+        ]
+    }, {
+        "postcode": "24000",
+        "country": "Mexico",
+        "countryabbreviation": "MX",
+        "places": [{
+                "placename": "Ciudad Amurallada Centro",
+                "longitude": "-90.7281",
+                "state": "Campeche",
+                "stateabbreviation": "CAM",
+                "latitude": "18.6744"
+            }
+        ]
+    }
+
+]
